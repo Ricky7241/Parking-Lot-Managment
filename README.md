@@ -1,2 +1,2 @@
 # Parking-Lot-Managment
-This is a parkiung managment system for SAAGR corporation
+This is a Parking Managment System for SAARG Parking Solutions.
